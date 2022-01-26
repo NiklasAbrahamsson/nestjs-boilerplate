@@ -1,0 +1,12 @@
+[submodule "ms"]
+	path = ms
+	url = https://github.com/NiklasAbrahamsson/nestjs-boilerplate-ms.git
+[submodule "auth_ms"]
+	path = auth_ms
+	url = https://github.com/NiklasAbrahamsson/nestjs-boilerplate-auth-ms.git
+[submodule "api_gateway"]
+	path = api_gateway
+	url = https://github.com/NiklasAbrahamsson/nestjs-boilerplate-api-gateway.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/NiklasAbrahamsson/nestjs-boilerplate-frontend.git
